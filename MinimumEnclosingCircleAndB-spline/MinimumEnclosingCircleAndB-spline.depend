@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605006243 source:c:\users\demir\onedrive\masaüstü\prolab denemeler\denemegraphics\main.cpp
+	<graphics.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
